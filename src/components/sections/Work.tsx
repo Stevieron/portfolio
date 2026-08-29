@@ -24,7 +24,7 @@ const projects: Project[] = [
     tags: ["Production", "Product Engineering"],
     description:
       "The internal back office powering iKlass Africa by supporting content management, cohort operations, and reporting. Built interfaces for dense data, bulk workflows, and role-aware views that help admins manage the platform efficiently.",
-    stack: ["Next.js", "TypeScript", "Tailwind"],
+    stack: ["React.js", "TypeScript", "Tailwind"],
     deployment:
       "Deployed to production. Equips the Iklass Africa team to manage courses, learners, and daily operations at scale.",
     image: {
